@@ -29,4 +29,4 @@ import seaborn as sns
 
 All the files in this repository are named with their experiment number, to access these files one can download as .ipynb file to the local machine and can be used. 
 
-Adding to these files, I have also added the saved model wchich ends with the extension of (.h5). So one can download this saved model and use it.
+Adding to these files, I have also added the saved model with file name (MLP_Model) wchich ends with the extension of .h5. So one can download this saved model and use it.
